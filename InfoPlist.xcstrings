@@ -1,0 +1,87 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TrainingLab"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workout Multiplatform"
+          }
+        }
+      }
+    },
+    "NSHealthShareUsageDescription" : {
+      "comment" : "Privacy - NSHealthShareUsageDescription",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TrainingLab liest deine Herzfrequenz, Herzfrequenzvariabilität, Ruheherzfrequenz, deinen Schlaf, dein Körpergewicht, Energie und Distanz, um deine Erholung einzuschätzen, Übungen mit Körpergewicht zu werten und deine Workouts anzupassen. Die Auswertung erfolgt auf deinem Gerät."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TrainingLab reads your heart rate, heart-rate variability, resting heart rate, sleep, body weight, energy and distance to estimate your recovery, count bodyweight exercises and tailor your workouts. This is analyzed on your device."
+          }
+        }
+      }
+    },
+    "NSHealthUpdateUsageDescription" : {
+      "comment" : "Privacy - NSHealthUpdateUsageDescription",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TrainingLab speichert deine abgeschlossenen Workouts mit Herzfrequenz, Energie und Distanz in Apple Health."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TrainingLab saves your completed workouts and their heart-rate, energy and distance to Apple Health."
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "comment" : "Privacy - NSLocationWhenInUseUsageDescription",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TrainingLab zeichnet deine Route bei Outdoor-Workouts auf, damit du sie live und in Apple Health sehen kannst."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TrainingLab records your route during outdoor workouts so you can see it live and in Apple Health."
+          }
+        }
+      }
+    },
+    "WorkoutContainer" : {
+
+    }
+  },
+  "version" : "1.0"
+}

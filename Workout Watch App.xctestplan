@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "43542B30-B53A-436A-B176-23C79CC69D9C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TrainingLab.xcodeproj",
+      "identifier" : "8791687B2A99FC6000026079",
+      "name" : "Workout Watch App"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:TrainingLab.xcodeproj",
+        "identifier" : "8791688A2A99FC6500026079",
+        "name" : "Workout Watch AppTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:TrainingLab.xcodeproj",
+        "identifier" : "879168942A99FC6500026079",
+        "name" : "Workout Watch AppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

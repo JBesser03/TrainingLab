@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.77252,0,0,1.77252,-392.62,-537.286)">
+        <g transform="matrix(0.0828759,-0.606543,0.606543,0.0828759,184.713,788.917)">
+            <path d="M336,320L251,440L239,431L237,467L274,456L261,446L345,326L336,320Z" style="stroke:black;stroke-width:0.92px;"/>
+        </g>
+        <g transform="matrix(-0.0202316,0.681303,-0.681303,-0.0202316,790.738,313.195)">
+            <path d="M336,320L251,440L239,431L237,467L274,456L261,446L345,326L336,320Z" style="stroke:black;stroke-width:0.83px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,432.178,27.574)">
+            <g transform="matrix(1,0,0,1,-3,1)">
+                <circle cx="223" cy="588" r="43"/>
+            </g>
+            <path d="M141,621C149.533,611.965 194,621 182,654C173.943,676.156 189,698 189,698C244,702 220,731 214,748L233,823C235,836 210,846 207,835L190,779L147,833C135,847 107,837 117,818L145,776C81.452,783.401 65.923,763.674 68,734C75.848,665.144 108.179,642.608 141,621Z" style="stroke:black;stroke-width:0.56px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-115.787,270.454)">
+            <path d="M444,226L439,372C438.625,376.905 444.772,380.126 460,381C459.38,439.801 442.483,494.32 430,550C419,572 452.236,580 459,568C500.606,494.184 512.394,236.831 500,223C494.626,215.764 490.186,205.701 497,199L508,125L521,47C525,31 496,28 492,40L481,110L467,198C467.756,203.445 466.701,208.216 463,212C448.815,216.359 444.563,221.107 444,226Z" style="stroke:black;stroke-width:0.56px;"/>
+            <g transform="matrix(1,0,0,1,7.65343,-1.56347)">
+                <circle cx="471.287" cy="161.5" r="43.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

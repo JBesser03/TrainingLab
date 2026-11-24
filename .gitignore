@@ -1,0 +1,10 @@
+# macOS / Finder
+.DS_Store
+
+# Xcode per-user data (window state, breakpoints, scheme mgmt, find scopes)
+xcuserdata/
+*.xcuserstate
+
+# Xcode build output
+build/
+DerivedData/

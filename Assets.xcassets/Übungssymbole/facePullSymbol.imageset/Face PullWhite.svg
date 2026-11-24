@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M860,70 L860,885" fill="none" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M775,885 L945,885" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M860,115 L810,115" fill="none" stroke="white" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="810" cy="137" r="24" fill="none" stroke="white" stroke-width="14"/>
+    <path d="M812,160 L520,160" fill="none" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="430" cy="140" r="92" fill="white"/>
+    <path d="M430,270 L435,550" fill="none" stroke="white" stroke-width="160" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M413,560 L401,735 L395,900" fill="none" stroke="white" stroke-width="94" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M457,560 L480,735 L487,900" fill="none" stroke="white" stroke-width="94" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M445,305 L275,225 L360,135" fill="none" stroke="white" stroke-width="70" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "92B7392B-8B4D-47E9-819E-F97406D6D5CD",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:TrainingLab.xcodeproj",
+      "identifier" : "87B29123279C4C3900E321E1",
+      "name" : "WorkoutApp (iOS)"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TrainingLab.xcodeproj",
+        "identifier" : "87B29130279C4C3900E321E1",
+        "name" : "Tests iOS"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:TrainingLab.xcodeproj",
+        "identifier" : "BB00000000000000000000A1",
+        "name" : "WorkoutAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
